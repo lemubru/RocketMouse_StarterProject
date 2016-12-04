@@ -1,0 +1,17 @@
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/obj/Debug/Assembly-CSharp.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/UnityEngine.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/UnityEditor.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Mono.Cecil.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Unity.DataContract.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/frankduplessis/Documents/RocketMouse_StarterProject/Temp/bin/Debug/Mono.Cecil.Mdb.dll
